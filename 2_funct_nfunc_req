@@ -1,0 +1,9 @@
+Functional Requirement
+1)windows 7 os
+2)visual studio 2017
+
+Non Functional Requirements
+1)Reliability=it can be used by any type of user 
+2)Security=user can see information only after login
+3)availability=at any time you can see your information database can't crushed
+
