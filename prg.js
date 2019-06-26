@@ -1,13 +1,9 @@
 var http=require('http');   
-var customer ={
-    customerID:"1",
-    feedback:"Good",
-	balance:"76509878",
-	company:"xyz",
-	annual_income:"98776543453"
-};
-var count=45;
-count++;
+var customer =[
+{customerID:"1",feedback:"Good",balance:"76509878",company:"xyz",annual_income:"987765434"},
+{customerID:"2",feedback:"average",balance:"765098",company:"pqr",annual_income:"987765434"},
+{customerID:"1",feedback:"excelent",balance:"7650987834",company:"lmn",annual_income:"98776543453"}
+]
 var controller=function(request,response)
 {
 	response.writeHead(200,

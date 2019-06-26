@@ -1,0 +1,12 @@
+Problem Definition
+
+1)In Acccount Management System Employee can loged in and check the corporate customer Accounting information. 
+2)Employee should logged in to see customer information ,even employee is valid user but not loged in then employee can't see information.
+3)user can only see the customer information can't update it.
+4)customer can upadte his own information only.
+5)admin has its own username and passwors through which it can login.
+6)admin add the employee of company.
+7)By using this web site Employee can get all customer accounting information and can calculate accounting related information.
+8)without internet user can't used it.
+9)Employee can access this site at any time ,anywhere.
+10)it reduce the direct interaction with customer and get info any time.
